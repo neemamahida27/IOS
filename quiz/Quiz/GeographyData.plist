@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>The intersecting lines drawn on maps and globes are</string>
+		<string>latitudes</string>
+		<string>longitudes</string>
+		<string>geographic grids</string>
+		<string>None of the above</string>
+		<string>geographic grids</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>The great Victoria Desert is located in</string>
+		<string>Canada</string>
+		<string>Australia</string>
+		<string>West Africa</string>
+		<string>North America</string>
+		<string>Australia</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>The largest mountain range in the world is</string>
+		<string>The Alps</string>
+		<string>The Andes</string>
+		<string>The Himalayas</string>
+		<string>The Rockies</string>
+		<string>The Andes</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>The humidity of the air depends upon</string>
+		<string>temperature</string>
+		<string>location</string>
+		<string>weather</string>
+		<string>All of the above</string>
+		<string>All of the above</string>
+	</array>
+	<key>E</key>
+	<array>
+		<string>The world smallest country is</string>
+		<string>Canada</string>
+		<string>Russia</string>
+		<string>Maldives</string>
+		<string>Vatican City</string>
+		<string>Vatican City</string>
+	</array>
+	<key>F</key>
+	<array>
+		<string>The longest ship canal in the world is the</string>
+		<string>St. Laurence Seaway (USA and Canada)</string>
+		<string>Suez canal, Egypt</string>
+		<string>Kiel canal, Germany</string>
+		<string>Panama canal, Central America</string>
+		<string>St. Laurence Seaway (USA and Canada)</string>
+	</array>
+	<key>G</key>
+	<array>
+		<string>The planet that takes the highest time for completing a rotation is</string>
+		<string>Mercury</string>
+		<string>Venus</string>
+		<string>Earth</string>
+		<string>Pluto</string>
+		<string>Venus</string>
+	</array>
+	<key>H</key>
+	<array>
+		<string>The reaction is carbonate and bicarbonate ions with mineral is called</string>
+		<string>hydrolysis</string>
+		<string>oxidation</string>
+		<string>solution</string>
+		<string>carbonation</string>
+		<string>carbonation</string>
+	</array>
+	<key>I</key>
+	<array>
+		<string>The shape of earth is</string>
+		<string>sphere</string>
+		<string>circular</string>
+		<string>oblate spheroid</string>
+		<string>spheroid</string>
+		<string>oblate spheroid</string>
+	</array>
+	<key>J</key>
+	<array>
+		<string>The smallest division of geological time scale is</string>
+		<string>eon</string>
+		<string>eras</string>
+		<string>stage</string>
+		<string>periods</string>
+		<string>stage</string>
+	</array>
+</dict>
+</plist>

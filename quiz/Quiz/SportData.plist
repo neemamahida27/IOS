@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>Who was the first Indian to win the World Amateur Billiards title?</string>
+		<string>Geet Sethi</string>
+		<string>Wilson Jones</string>
+		<string>Michael Ferreira</string>
+		<string>Manoj Kothari</string>
+		<string>Wilson Jones</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>&apos;Dizzy&apos; is the nickname of what Australian player?</string>
+		<string>Adam Gilchrist</string>
+		<string>Glenn McGrath</string>
+		<string>Brett Lee</string>
+		<string>Jason Gillespie</string>
+		<string>Jason Gillespie</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>How many national associations members are in FIFA ?</string>
+		<string>200</string>
+		<string>208</string>
+		<string>215</string>
+		<string>220</string>
+		<string>208</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>From which year did chess competition between computer started?</string>
+		<string>1975</string>
+		<string>1974</string>
+		<string>1970</string>
+		<string>1990</string>
+		<string>1974</string>
+	</array>
+	<key>E</key>
+	<array>
+		<string>Modern boxing was invented in which country ?</string>
+		<string>USA</string>
+		<string>Brazil</string>
+		<string>England</string>
+		<string>Canada</string>
+		<string>England</string>
+	</array>
+	<key>F</key>
+	<array>
+		<string>With which sport is the Tata Open associated ?</string>
+		<string>Rowing</string>
+		<string>Horse riding</string>
+		<string>Bowling</string>
+		<string>Lawn Tennis</string>
+		<string>Lawn Tennis</string>
+	</array>
+	<key>G</key>
+	<array>
+		<string>Which football hero was nicknamed &quot;The Sundance Kid&quot;?</string>
+		<string>Jim Kiick</string>
+		<string>Troy Aikman</string>
+		<string>Brett Favre</string>
+		<string>Joe Montana</string>
+		<string>Jim Kiick</string>
+	</array>
+	<key>H</key>
+	<array>
+		<string>What is the full form of PCHA in reference of Ice Hockey ?</string>
+		<string>Pacific Coach Hockey Association</string>
+		<string>Pacific Cost Hockey Association</string>
+		<string>Pacific Coast Hockey Association</string>
+		<string>Pacific Coast Hockey Assembly</string>
+		<string>Pacific Coast Hockey Association</string>
+	</array>
+	<key>I</key>
+	<array>
+		<string>Which Edition of The Australion Open was held in 2013?</string>
+		<string>101st</string>
+		<string>105th</string>
+		<string>90th</string>
+		<string>110th</string>
+		<string>101st</string>
+	</array>
+	<key>J</key>
+	<array>
+		<string>Table Tennis is also known as</string>
+		<string>Ring-Rong</string>
+		<string>Ping-Pong</string>
+		<string>Sing-Song
+</string>
+		<string>Bing-Bong</string>
+		<string>Ping-Pong</string>
+	</array>
+</dict>
+</plist>
